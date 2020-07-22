@@ -1,7 +1,7 @@
-**dav4thevid/dav4thevid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Dav4thevid/ReadME.md
 Hi there, 👋 My name is David 
-but you can call me Davoucii.
+but you can call me ✨Davoucii✨.
 A passionate Software Engineer, 
 Football Fanatic (FCB / Arsenal🤔)
 
