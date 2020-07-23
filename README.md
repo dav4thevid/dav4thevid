@@ -26,16 +26,6 @@ I have a passion for learning and sharing my knowledge with others a public as p
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dav4thevid&show_icons=true" alt="dav4thevid" /> </p>
-
  ---
 
-
----
-
-
-<p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
- <p/>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dav4thevid&show_icons=true" alt="dav4thevid" /> </p>
