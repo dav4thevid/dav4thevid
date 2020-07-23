@@ -1,4 +1,4 @@
-# [![Davoucii header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
+# [![Davoucii header](https://github.com/dav4thevid/dav4thevid/blob/master/blob/master/icons/cover_image.png)](https://find-davoucii.netlify.com)
 <p align='center'>
 <a href="https://dev.to/dav4thevid"><img height="30" src="https://github.com/dav4thevid/dav4thevid/blob/master/blob/master/icons/dev.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/dav4thevid"><img height="30" src="https://github.com/dav4thevid/dav4thevid/blob/master/blob/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
