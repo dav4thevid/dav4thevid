@@ -7,9 +7,8 @@
 <a href="https://www.linkedin.com/in/davoucii/"><img height="30" src="https://github.com/dav4thevid/dav4thevid/blob/master/blob/master/icons/linkedin.png?raw=true"></a>
 </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dav4thevid&show_icons=true" alt="dav4thevid" /> </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dav4thevid" alt="dav4thevid" /> </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
