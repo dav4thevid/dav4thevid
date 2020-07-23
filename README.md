@@ -26,10 +26,6 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 ---
 
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _255_
-
-
-<h2></h2>
 
 <p align='center'>
 <!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
