@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/davoucii/"><img height="30" src="https://github.com/dav4thevid/dav4thevid/blob/master/blob/master/icons/linkedin.png?raw=true"></a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dav4thevid&show_icons=true" alt="dav4thevid" /> </p>
+
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
@@ -27,6 +27,7 @@ I have a passion for learning and sharing my knowledge with others a public as p
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.
 
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dav4thevid&show_icons=true" alt="dav4thevid" /> </p>
 
  ---
 
