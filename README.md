@@ -7,6 +7,10 @@
 <a href="https://www.linkedin.com/in/davoucii/"><img height="30" src="https://github.com/dav4thevid/dav4thevid/blob/master/blob/master/icons/linkedin.png?raw=true"></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?dav4thevid&color=green" alt="dav4thevid" /> </p>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 Hey there 👋,
 
 I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [find-davoucii.netlify.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/davoucii), or give me a shout out [@dav4thevid](https://twitter.com/dav4thevid), || [@dav4thevid](https://facebook.com/dav4thevid) give some ♥ on [DEV.to/dav4thevid](https://dev.to/dav4thevid)
@@ -20,6 +24,8 @@ I have a passion for learning and sharing my knowledge with others a public as p
 ### Boy Scout Rule
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.
+
+
 
  ---
 
